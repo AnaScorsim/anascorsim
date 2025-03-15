@@ -1,10 +1,10 @@
 ## Olá! Eu sou a Ana Scorsim 😉
 
 <a href="https://github.com/AnaScorsim/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnaScorsim&theme=radical" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=AnaScorsim&theme=radical" />
 </a>
 <a href="https://github.com/AnaScorsim/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaScorsim&layout=compact&theme=radical&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaScorsim&layout=compact&theme=radical&card_width=320" />
 </a>
 
 <div style="display: inline_block"><br>
